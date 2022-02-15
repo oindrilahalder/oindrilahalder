@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oindrila-halder2717/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/halderoindrila/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/oindrila.halder)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralhanprateek@gmail.com?subject=Hi There! 😉)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oindrilahalder@gmail.com)
 
 <p float="center">
 <img src="https://github-readme-stats.vercel.app/api?username=oindrilahalder&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=prateekralhan&show_icons=true&theme=dracula"/>
